@@ -2,7 +2,7 @@
 
 The code is written in python as jupyter nootbooks to add comments.
 
-- lab 1: CNNs and baysian optimization <br> 
+- lab 1: CNNs and bayesian optimization <br> 
 - lab 2: Transfer learning on CNNs <br> 
 - lab 3: LSTM <br>
 - lab 4: RNN <br>
