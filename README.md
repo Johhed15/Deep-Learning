@@ -13,7 +13,7 @@ The code is written in python as jupyter nootbooks to add comments.
 
 #### If you have any questions regarding the work, please contact me
 
-# Example of classification of Fashion Mnist
+# Example of classification of the Fashion Mnist dataset
 
 ## Transfer learinng of the some of the structure/weights from Xception model
 
