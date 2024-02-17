@@ -8,9 +8,6 @@ The code is written in python as jupyter nootbooks to add comments.
 - lab 4: RNN <br>
 - lab 5: Q-Learning <br><br>
 
-
-<br>
-
 #### If you have any questions regarding the work, please contact me
 
 # Example of classification of the Fashion Mnist dataset
