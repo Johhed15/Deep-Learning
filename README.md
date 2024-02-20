@@ -6,7 +6,7 @@ The code is written in python as jupyter nootbooks to add comments.
 - lab 2: Transfer learning on CNNs <br> 
 - lab 3: LSTM <br>
 - lab 4: RNN <br>
-- lab 5: Q-Learning <br><br>
+- lab 5: RN(Q-Learning) <br><br>
 
 #### If you have any questions regarding the work, please contact me
 
