@@ -1,12 +1,18 @@
-# This repository contains some of my work from a deep learning course on Umeå University!
+# This repository contains some of my work from deep learning courses on Umeå and Linköping University!
 
 The code is written in python as jupyter nootbooks to add comments.
-
+## Umeå
 - lab 1: CNNs and bayesian optimization <br> 
 - lab 2: Transfer learning on CNNs <br> 
 - lab 3: LSTM <br>
 - lab 4: RNN <br>
 - lab 5: RN(Q-Learning) <br><br>
+
+## LIU
+
+- Deep neural network - classification
+- CNN - image classification
+- RNN - translator
 
 #### If you have any questions regarding the work, please contact me
 
